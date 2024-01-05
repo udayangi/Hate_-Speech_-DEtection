@@ -1,2 +1,2 @@
-# Hate_-Speech_-DEtection
+# Hate_Speech_Detection
 Hate Speech DEtection
