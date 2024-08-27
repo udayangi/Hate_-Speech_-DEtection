@@ -1,0 +1,10 @@
+Potentially hateful content found in the transcript. Hate words:
+Racial:
+- a
+- we
+- you
+Offensive:
+- in the
+Threat:
+- Live
+- me

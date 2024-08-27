@@ -1,0 +1,7 @@
+1.pip install youtube_transcript_api
+2.you should only copy url after = symbol
+3.And you can only convert to text with subtitles cc video
+4.Audio file ekkin text eka gnna puluwan widiha psse ewannm
+5.Meka hodai nm kellek set krla denooooo.
+6.Hada..!!!!!!
+7.finally add hate words to hate.py
